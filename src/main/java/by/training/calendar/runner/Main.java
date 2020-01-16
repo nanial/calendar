@@ -12,7 +12,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        MyCalendarUtils myCalendar = new MyCalendarUtilsImpl(new MyCalendar(2021));
+        MyCalendarUtils myCalendar = new MyCalendarUtilsImpl(new MyCalendar(2026));
         System.out.println(myCalendar.allHolToString());
     }
 }

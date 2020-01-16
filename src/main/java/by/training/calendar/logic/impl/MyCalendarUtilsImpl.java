@@ -8,10 +8,7 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.time.DayOfWeek;
 import java.time.LocalDate;
-import java.util.ArrayList;
-import java.util.Date;
-import java.util.SortedSet;
-import java.util.TreeSet;
+import java.util.*;
 
 public class MyCalendarUtilsImpl implements MyCalendarUtils {
 
@@ -110,6 +107,7 @@ public class MyCalendarUtilsImpl implements MyCalendarUtils {
 
     public Date ortodoxPasqua() {
 
+        this.getMyCalendar().getNumOfYear();
         Date easterDate = new Date();
         int a = this.getMyCalendar().getNumOfYear() % 4;
         int b = this.getMyCalendar().getNumOfYear() % 7;
@@ -127,19 +125,33 @@ public class MyCalendarUtilsImpl implements MyCalendarUtils {
     public Date dayOfMemory() {
 
         Date mem = new Date();
-        Date easter = ortodoxPasqua();
+        Date easter = this.ortodoxPasqua();
 
-        if ((easter.getDate() + 9) > 30 && easter.getMonth() == 3) {
+        if (easter.getMonth() == 3 && (easter.getDate() + 9) > 30) {
 
-            mem.setMonth(easter.getMonth() + 1);
+            mem.setMonth(4);
             mem.setDate((easter.getDate() + 9) - 30);
 
         } else if ((easter.getDate() + 9) > 31) {
             mem.setMonth(easter.getMonth() + 1);
             mem.setDate((easter.getDate() + 9) - 31);
-
+        }
+        else {
+            mem.setMonth(easter.getMonth());
+            mem.setDate(easter.getDate() + 9);
         }
         mem.setYear(70);
         return mem;
     }
 }
+/*int a = (19 * (this.getMyCalendar().getNumOfYear() % 19) + 15) % 30;
+        int b = ((2 * (this.getMyCalendar().getNumOfYear() % 4) + 4 *
+                (this.getMyCalendar().getNumOfYear() % 7) + 6 * a + 6) % 7);
+
+        if(a + b > 10)
+            easterDate = new Date(this.getMyCalendar().getNumOfYear(), 3, a + b - 9);
+        else
+            easterDate = new Date(this.getMyCalendar().getNumOfYear(), 2, 22 + a + b);
+
+        easterDate.setDate(easterDate.getDate() + 13);
+        return easterDate;*/

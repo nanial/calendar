@@ -7,10 +7,10 @@
       <change afterPath="D:/$RECYCLE.BIN/S-1-5-21-2851624354-303915512-3474638792-1001/$RANJT4Z.dragon/by.training.dragon.iml" afterDir="false" />
       <change afterPath="D:/$RECYCLE.BIN/S-1-5-21-2851624354-303915512-3474638792-1001/$RB5C6G3/linearalgoritm.iml" afterDir="false" />
       <change afterPath="D:/$RECYCLE.BIN/S-1-5-21-2851624354-303915512-3474638792-1001/$RED6OI1.patient/by.taining.patient.iml" afterDir="false" />
+      <change afterPath="D:/Telegram Desktop/log_start0.txt" afterDir="false" />
       <change afterPath="D:/Telegram Desktop/tdata/D877F783D5D3EF8C/CD6BE679489C97990" afterDir="false" />
       <change afterPath="D:/Telegram Desktop/tdata/D877F783D5D3EF8C/F41EBCAA5FEF7C881" afterDir="false" />
-      <change afterPath="D:/Telegram Desktop/tdata/D877F783D5D3EF8C/map0" afterDir="false" />
-      <change afterPath="D:/Telegram Desktop/tdata/settings0" afterDir="false" />
+      <change afterPath="D:/Telegram Desktop/tdata/D877F783D5D3EF8C/map1" afterDir="false" />
       <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/ant/lib/ant-jps-plugin.jar" afterDir="false" />
       <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/ant/lib/resources_en.jar" afterDir="false" />
       <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/aop-common/lib/aop-common.jar" afterDir="false" />
@@ -414,20 +414,15 @@
       <change afterPath="$PROJECT_DIR$/../by.training.task10/src/main/resources/log4j.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../by.training.task10/target/log.log" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/by/training/calendar/bean/MyCalendar.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/by/training/calendar/logic/api/MyCalendarUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/by/training/calendar/logic/impl/MyCalendarUtilsImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/by/training/calendar/runner/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/by/training/calendar/bean/MyCalendar$TransientHolidays.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/by/training/calendar/bean/MyCalendar.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/by/training/calendar/logic/api/MyCalendarUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/by/training/calendar/logic/impl/MyCalendarUtilsImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/by/training/calendar/runner/Main.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../financist/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../financist/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../financist/.idea/misc.xml" afterDir="false" />
@@ -597,6 +592,11 @@
       <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/SecondServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/SecondServlet.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/entities/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/entities/Product.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/servlets/AdminProductServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/servlets/AdminProductServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/by/training/calendar/logic/impl/MyCalendarUtilsImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/training/calendar/logic/impl/MyCalendarUtilsImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/by/training/calendar/runner/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/training/calendar/runner/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/by/training/calendar/logic/impl/MyCalendarUtilsImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/training/calendar/logic/impl/MyCalendarUtilsImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/by/training/calendar/runner/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/training/calendar/runner/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -638,6 +638,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
@@ -698,31 +699,65 @@
       <option name="presentableId" value="Default" />
       <updated>1579179151490</updated>
     </task>
+    <task id="LOCAL-00001" summary="calendar">
+      <created>1579180106839</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579180106839</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="calendar" />
+    <option name="LAST_COMMIT_MESSAGE" value="calendar" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1557" height="124" key="GridCell.Tab.0.bottom" timestamp="1579180048822">
+    <state x="430" y="26" key="CommitChangelistDialog2" timestamp="1579180103592">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="124" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1579180048822" />
-    <state width="1557" height="124" key="GridCell.Tab.0.center" timestamp="1579180048822">
+    <state x="430" y="26" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1579180103592" />
+    <state width="1557" height="216" key="GridCell.Tab.0.bottom" timestamp="1579199818674">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="124" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1579180048822" />
-    <state width="1557" height="124" key="GridCell.Tab.0.left" timestamp="1579180048822">
+    <state width="1557" height="216" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1579199818674" />
+    <state width="1557" height="216" key="GridCell.Tab.0.center" timestamp="1579199818673">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="124" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1579180048822" />
-    <state width="1557" height="124" key="GridCell.Tab.0.right" timestamp="1579180048822">
+    <state width="1557" height="216" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1579199818673" />
+    <state width="1557" height="216" key="GridCell.Tab.0.left" timestamp="1579199818673">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="124" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1579180048822" />
+    <state width="1557" height="216" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1579199818673" />
+    <state width="1557" height="216" key="GridCell.Tab.0.right" timestamp="1579199818674">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="216" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1579199818674" />
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom" timestamp="1579197298384">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1579197298384" />
+    <state width="1557" height="276" key="GridCell.Tab.1.center" timestamp="1579197298384">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1579197298384" />
+    <state width="1557" height="276" key="GridCell.Tab.1.left" timestamp="1579197298384">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1579197298384" />
+    <state width="1557" height="276" key="GridCell.Tab.1.right" timestamp="1579197298384">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1579197298384" />
     <state x="280" y="8" key="SettingsEditor" timestamp="1579179479053">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="280" y="8" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1579179479053" />
+    <state x="392" y="167" key="Vcs.Push.Dialog.v2" timestamp="1579180113904">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="167" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1579180113904" />
   </component>
 </project>
