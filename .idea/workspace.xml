@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a9f14e2-a83e-4862-8e50-fdb074b58094" name="Default Changelist" comment="">
+      <change afterPath="D:/$RECYCLE.BIN/S-1-5-21-2851624354-303915512-3474638792-1001/$I8O8XKR.iml" afterDir="false" />
+      <change afterPath="D:/$RECYCLE.BIN/S-1-5-21-2851624354-303915512-3474638792-1001/$R8O8XKR.iml" afterDir="false" />
+      <change afterPath="D:/$RECYCLE.BIN/S-1-5-21-2851624354-303915512-3474638792-1001/$RANJT4Z.dragon/by.training.dragon.iml" afterDir="false" />
+      <change afterPath="D:/$RECYCLE.BIN/S-1-5-21-2851624354-303915512-3474638792-1001/$RB5C6G3/linearalgoritm.iml" afterDir="false" />
+      <change afterPath="D:/$RECYCLE.BIN/S-1-5-21-2851624354-303915512-3474638792-1001/$RED6OI1.patient/by.taining.patient.iml" afterDir="false" />
+      <change afterPath="D:/Telegram Desktop/tdata/D877F783D5D3EF8C/CD6BE679489C97990" afterDir="false" />
+      <change afterPath="D:/Telegram Desktop/tdata/D877F783D5D3EF8C/F41EBCAA5FEF7C881" afterDir="false" />
+      <change afterPath="D:/Telegram Desktop/tdata/D877F783D5D3EF8C/map0" afterDir="false" />
+      <change afterPath="D:/Telegram Desktop/tdata/settings0" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/ant/lib/ant-jps-plugin.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/ant/lib/resources_en.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/aop-common/lib/aop-common.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/aop-common/lib/resources_en.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/arquillian-core/lib/arquillian-core.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/arquillian-core/lib/arquillian-junit.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/arquillian-core/lib/arquillian-testng.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/arquillian-core/lib/mavenDependencies.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/arquillian-core/lib/resources_en.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/asp/lib/asp.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/asp/lib/resources_en.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/aspectj/lib/aspectj-jps-plugin.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/aspectj/lib/aspectj.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/aspectj/lib/resources_en.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/cfmlSupport/lib/cfmlSupport.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/cfmlSupport/lib/resources_en.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/cloud-config/lib/cloud-config.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/cloud-config/lib/resources_en.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/cloudFoundryIntegration/lib/cloudFoundryIntegration.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/cloudFoundryIntegration/lib/specifics/cloudFoundrySpecifics.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/coffeescript-core/lib/coffeescript-core.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/coffeescript-core/lib/resources_en.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/configurationScript/lib/configurationScript.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/copyright/lib/copyright.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/coverage/lib/coverage-report-idea.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/coverage/lib/coverage-report.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/coverage/lib/coverage.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/coverage/lib/coverage_rt.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/coverage/lib/freemarker.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/coverage/lib/jacocoagent.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/coverage/lib/jacocoant.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/cucumber-groovy/lib/cucumber-groovy-1.2.4.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/cucumber-groovy/lib/cucumber-groovy.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/cucumber-java/lib/cucumber-core-1.2.4.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/cucumber-java/lib/cucumber-expressions-6.1.2.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/cucumber-java/lib/cucumber-java.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/cucumber-java/lib/cucumber-jvmFormatter.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/cucumber-java/lib/cucumber-jvmFormatter3.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/cucumber-java/lib/gherkin-2.12.2.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/devkit/lib/devkit-jps-plugin.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/devkit/lib/devkit.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/devkit/lib/dtdparser113.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/devkit/lib/resources_en.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/dmServer/lib/com.springsource.server.management.remote-1.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/dmServer/lib/dmServer-jps-plugin.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/dmServer/lib/dmServerSupport.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/drools/lib/drools-support.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/drools/lib/resources_en.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/dsm/lib/dsm.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/eclipse/lib/common-eclipse-util.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/eclipse/lib/eclipse-jps-plugin.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/eclipse/lib/eclipse.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/eclipse/lib/resources_en.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/editorconfig/lib/editorconfig-core-java.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/editorconfig/lib/editorconfig.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/editorconfig/lib/resources_en.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/emma/lib/emma-agent.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/emma/lib/emma-idea.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/emma/lib/emma.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/flex/lib/FlexSupport.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/flex/lib/flex-compiler.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/flex/lib/flex-jps-plugin.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/flex/lib/flex-shared.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/flex/lib/flexmojos-flex-configs-generator-server-31.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/flex/lib/flexmojos-flex-configs-generator-server.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/flex/lib/flexmojos-idea-configurator.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/flex/lib/idea-fcsh-fix.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/flex/lib/idea-fcsh-fix_src.zip" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/flex/lib/idea-fdb-3-fix.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/flex/lib/idea-fdb-3-fix_src.zip" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/flex/lib/idea-fdb-4.0.0.14159-fix.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/flex/lib/idea-fdb-4.0.0.14159-fix_src.zip" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/flex/lib/idea-fdb-4.5.0.20967-fix.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/flex/lib/idea-fdb-4.5.0.20967-fix_src.zip" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/flex/lib/idea-flex-compiler-fix.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/flex/lib/idea-flex-compiler-fix_src.zip" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/flex/lib/resources_en.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/flex/lib/temp_keystore.p12" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/flex/lib/unittestingsupport_as.swc" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/flex/lib/unittestingsupport_flexunit_4.swc" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/flex/lib/unittestingsupport_mx.swc" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/flex/lib/unittestingsupport_spark.swc" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/gherkin/lib/gherkin.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/gherkin/lib/resources_en.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/git4idea/lib/git4idea-rt.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/git4idea/lib/git4idea.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/git4idea/lib/remote-servers-git.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/git4idea/lib/resources_en.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/github/lib/github.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/gradle/lib/gradle-common.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/gradle/lib/gradle-tooling-extension-api.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/gradle/lib/gradle-tooling-extension-impl.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/gradle/lib/gradle.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/haml/lib/haml.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/haml/lib/resources_en.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/hg4idea/lib/hg4idea.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/hg4idea/lib/resources_en.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/htmltools/lib/htmltools.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/htmltools/lib/resources_en.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/jBPM/lib/jbpm-graph-api.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/jBPM/lib/jbpm-support.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/java-decompiler/lib/java-decompiler.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/java-i18n/lib/java-i18n.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/java-i18n/lib/resources_en.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/javaFX/lib/common-javaFX-plugin.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/javaFX/lib/javaFX-jps-plugin.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/javaFX/lib/javaFX.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/javaFX/lib/resources_en.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/jboss-core/lib/jboss-core.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/jsp/lib/jsp-impl.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/jsr45debug/lib/jsr45debug.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/jsr45debug/lib/resources_en.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/junit/lib/idea-junit.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/junit/lib/junit-rt.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/junit/lib/junit5-rt.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/junit/lib/resources_en.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/less/lib/less.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/less/lib/resources_en.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/markdown/lib/markdown.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/markdown/lib/owasp-java-html-sanitizer.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/markdown/lib/resources_en.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven-ext/lib/maven-ext.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/artifact-resolver-m2.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/artifact-resolver-m3.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/artifact-resolver-m31.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/lucene-core-2.4.1.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven-errorProne-compiler.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven-jps-plugin.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven-server-api.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven2-server-impl.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven2-server-lib/archetype-common-2.0-alpha-4-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven2-server-lib/commons-beanutils.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven2-server-lib/maven-dependency-tree-1.2.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven2-server-lib/mercury-artifact-1.0-alpha-6.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven2-server-lib/nexus-indexer-1.2.3.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven2/LICENSE.txt" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven2/NOTICE.txt" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven2/README.txt" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven2/bin/m2.conf" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven2/bin/mvn" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven2/bin/mvn.bat" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven2/bin/mvnDebug" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven2/bin/mvnDebug.bat" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven2/boot/classworlds-1.1.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven2/conf/settings.xml" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven2/lib/maven-2.2.1-uber.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven3-server-common.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven3-server-impl.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven3-server-lib/archetype-catalog-2.2.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven3-server-lib/archetype-common-2.2.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven3-server-lib/maven-dependency-tree-1.2.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven3-server-lib/nexus-indexer-3.0.4.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven3-server-lib/nexus-indexer-artifact-1.0.1.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven3/LICENSE" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven3/NOTICE" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven3/README.txt" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven3/bin/m2.conf" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven3/bin/mvn" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven3/bin/mvn.cmd" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven3/bin/mvnDebug" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven3/bin/mvnDebug.cmd" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven3/bin/mvnyjp" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven3/conf/logging/simplelogger.properties" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven3/conf/settings.xml" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven3/conf/toolchains.xml" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven3/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven3/lib/cdi-api-1.0.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven3/lib/ext/README.txt" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven3/lib/javax.inject-1.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven3/lib/jsr250-api-1.0.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven3/lib/jsr250-api.license" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven3/lib/org.eclipse.sisu.inject.license" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven3/lib/org.eclipse.sisu.plexus.license" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven3/lib/plexus-cipher-1.7.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven3/lib/slf4j-api.license" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/maven30-server-impl.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/maven/lib/resources_en.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/osmorc/lib/bundlor-all.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/osmorc/lib/org.osgi.namespace.contract-1.0.0.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/osmorc/lib/org.osgi.namespace.extender-1.0.1.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/osmorc/lib/org.osgi.namespace.implementation-1.0.0.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/osmorc/lib/org.osgi.namespace.service-1.0.0.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/osmorc/lib/osmorc-jps-plugin.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/osmorc/lib/osmorc.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/osmorc/lib/resources_en.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/performanceTesting/lib/performanceTesting.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/performanceTesting/lib/resources_en.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/properties/lib/properties.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/properties/lib/resources_en.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/reactor/lib/reactor.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/reactor/lib/resources_en.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/remote-run/lib/remote-run.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/resinIntegration/lib/resin.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/resinIntegration/lib/resources_en.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/restClient/lib/resources_en.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/restClient/lib/restClient.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/restWebServices/lib/rs.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/restWebServices/lib/ws-rt.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/restWebServices/lib/ws-utils.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/sass/lib/jrubyparser-0.5.4.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/sass/lib/resources_en.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/sass/lib/sass.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/settings-repository/lib/jgit.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/settings-repository/lib/resources_en.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/settings-repository/lib/settings-repository.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/smali/lib/smali.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/lib/resources_en.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/lib/socketio.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/lib/spy-js.jar" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/lib/app.js" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/lib/defaultConfig.js" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/lib/evaluator.js" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/lib/global.js" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/lib/instrument.js" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/lib/proxyUtil.js" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/lib/session.js" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/lib/sessionCore.js" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/lib/sessionNode.js" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/lib/sessionStore.js" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/lib/tracer.js" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/lib/tracerDependencies.js" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/lib/tracerNode.js" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/lib/urlUtil.js" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/lib/worker.js" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/.bin/acorn" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/.bin/escodegen" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/.bin/esgenerate" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/.bin/esparse" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/.bin/esvalidate" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/.bin/express" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/.bin/ncp" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/.bin/node-http-proxy" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/.bin/rimraf" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/.bin/semver" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/.bin/uglifyjs" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/.bin/uuid" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/.bin/wscat" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/acorn/.editorconfig" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/acorn/.npmignore" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/acorn/.tern-project" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/acorn/.travis.yml" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/acorn/AUTHORS" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/acorn/LICENSE" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/acorn/bin/acorn" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/acorn/bin/build-acorn.js" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/acorn/bin/generate-identifier-regex.js" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/acorn/bin/update_authors.sh" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/acorn/dist/.keep" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/acorn/dist/acorn.js" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/acorn/dist/acorn_loose.js" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/acorn/dist/walk.js" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/acorn/package.json" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/acorn/src/bin/acorn.js" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/acorn/src/expression.js" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/acorn/src/identifier.js" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/acorn/src/index.js" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/acorn/src/location.js" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/acorn/src/locutil.js" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/acorn/src/loose/acorn_loose.js" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/acorn/src/loose/expression.js" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/acorn/src/loose/index.js" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/acorn/src/loose/parseutil.js" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/acorn/src/loose/state.js" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/acorn/src/loose/statement.js" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/acorn/src/loose/tokenize.js" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/acorn/src/lval.js" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/acorn/src/node.js" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/acorn/src/options.js" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/acorn/src/statement.js" afterDir="false" />
+      <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/spy-js/server/node_modules/multi-stage-sourcemap/.idea/multi-stage-sourcemap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Examples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/out/production/Examples/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/src/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My web app/My web app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PerlHarbor/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PerlHarbor/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PerlHarbor/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PerlHarbor/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PerlHarbor/PerlHarbor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PerlHarbor/src/com/nanial/finalTask/Dock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PerlHarbor/src/com/nanial/finalTask/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PerlHarbor/src/com/nanial/finalTask/Port.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PerlHarbor/src/com/nanial/finalTask/Ship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PerlHarbor/src/shapoval/harbor/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PerlHarbor/src/shapoval/harbor/Port.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PerlHarbor/src/shapoval/harbor/Ship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/Socket.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicle/.idea/Vehicle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.dragon/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.dragon/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.dragon/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.dragon/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.dragon/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.dragon/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.dragon/src/main/java/by/training/task10dragon/bean/Dragon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.dragon/src/main/java/by/training/task10dragon/bean/Treasure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.dragon/src/main/java/by/training/task10dragon/bean/TypeOfTreasure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.dragon/src/main/java/by/training/task10dragon/controller/CommandProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.dragon/src/main/java/by/training/task10dragon/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.dragon/src/main/java/by/training/task10dragon/controller/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.dragon/src/main/java/by/training/task10dragon/controller/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.dragon/src/main/java/by/training/task10dragon/controller/command/CommandName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.dragon/src/main/java/by/training/task10dragon/controller/command/impl/CertainSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.dragon/src/main/java/by/training/task10dragon/controller/command/impl/MostExpensive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.dragon/src/main/java/by/training/task10dragon/controller/command/impl/ShowTreasure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.dragon/src/main/java/by/training/task10dragon/exception/TreasureException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.dragon/src/main/java/by/training/task10dragon/logic/api/DragonUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.dragon/src/main/java/by/training/task10dragon/logic/api/GrottoUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.dragon/src/main/java/by/training/task10dragon/logic/impl/DragonUtilsImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.dragon/src/main/java/by/training/task10dragon/logic/impl/GrottoUtilsImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.dragon/src/main/java/by/training/task10dragon/view/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.dragon/src/main/java/by/training/task10dragon/view/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.dragon/src/main/resources/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.dragon/target/classes/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task06sorting/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task06sorting/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task06sorting/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task06sorting/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task06sorting/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task06sorting/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task06sorting/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task06sorting/src/main/java/task06sorting/binarySearch/Controller/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task06sorting/src/main/java/task06sorting/binarySearch/Controller/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task06sorting/src/main/java/task06sorting/changesort/ChangeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task06sorting/src/main/java/task06sorting/merge/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task06sorting/src/main/java/task06sorting/selectionsort/controller/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task06sorting/src/main/java/task06sorting/shell/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task07/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task07/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task07/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task07/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task07/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task07/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task07/src/main/java/by/training/arraytwodimension/task05/controller/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task07/src/main/java/by/training/arraytwodimension/task05/service/PrintRow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task07/src/main/java/by/training/arraytwodimension/task15/controller/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task07/src/main/java/by/training/arraytwodimension/task26/controller/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task07/src/main/java/by/training/arraytwodimension/task26/service/OperationMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task07/src/main/java/by/training/arraytwodimension/task26/service/PrintMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task07/src/main/java/by/training/arraytwodimension/task26/service/Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task07/src/main/java/by/training/arraytwodimension/task36/controller/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task07/src/main/java/by/training/arraytwodimension/task36/service/SmoothMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task08matrix/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task08matrix/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task08matrix/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task08matrix/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task08matrix/matrix.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task08matrix/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task08matrix/secondMatrix.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task08matrix/src/main/java/by/training/task08/bean/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task08matrix/src/main/java/by/training/task08/controller/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task08matrix/src/main/java/by/training/task08/exception/MatrixException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task08matrix/src/main/java/by/training/task08/logger/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task08matrix/src/main/java/by/training/task08/service/CreateMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task08matrix/src/main/java/by/training/task08/service/CreateMatrixImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task08matrix/src/main/java/by/training/task08/service/MatrixOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task08matrix/src/main/java/by/training/task08/service/MatrixOperationImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task08matrix/src/main/java/by/training/task08/service/ReadMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task08matrix/src/main/java/by/training/task08/service/ReadTwoMatrixDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task08matrix/src/main/java/by/training/task08/validator/MatrixValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task08matrix/src/main/java/by/training/task08/view/PrintMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task08matrix/src/main/java/by/training/task08/view/PrintMatrixImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task08matrix/src/main/resources/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task08matrix/twoMatrix.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task10/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task10/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task10/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task10/fs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task10/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task10/src/main/java/by/training/textfile/apiDao/FSDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task10/src/main/java/by/training/textfile/apibusiness/FSBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task10/src/main/java/by/training/textfile/apibusiness/FileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task10/src/main/java/by/training/textfile/apibusiness/FileManagerBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task10/src/main/java/by/training/textfile/apibusiness/MenuBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task10/src/main/java/by/training/textfile/bean/Directory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task10/src/main/java/by/training/textfile/bean/FS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task10/src/main/java/by/training/textfile/bean/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task10/src/main/java/by/training/textfile/bean/Text.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task10/src/main/java/by/training/textfile/bean/TextFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task10/src/main/java/by/training/textfile/business/FSBuilderImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task10/src/main/java/by/training/textfile/business/FSFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task10/src/main/java/by/training/textfile/business/FileManagerBuilderImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task10/src/main/java/by/training/textfile/business/FileManagerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task10/src/main/java/by/training/textfile/business/MenuBuilderImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task10/src/main/java/by/training/textfile/business/MenuFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task10/src/main/java/by/training/textfile/business/Receiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task10/src/main/java/by/training/textfile/command/AddCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task10/src/main/java/by/training/textfile/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task10/src/main/java/by/training/textfile/command/CreateCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task10/src/main/java/by/training/textfile/command/DeleteCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task10/src/main/java/by/training/textfile/command/PrintCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task10/src/main/java/by/training/textfile/command/RenameCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task10/src/main/java/by/training/textfile/controller/Dispatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task10/src/main/java/by/training/textfile/controller/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task10/src/main/java/by/training/textfile/dao/FSDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task10/src/main/java/by/training/textfile/view/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task10/src/main/java/by/training/textfile/view/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task10/src/main/resources/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../by.training.task10/target/log.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/by/training/calendar/bean/MyCalendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/by/training/calendar/logic/api/MyCalendarUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/by/training/calendar/logic/impl/MyCalendarUtilsImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/by/training/calendar/runner/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/by/training/calendar/bean/MyCalendar$TransientHolidays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/by/training/calendar/bean/MyCalendar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/by/training/calendar/logic/api/MyCalendarUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/by/training/calendar/logic/impl/MyCalendarUtilsImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/by/training/calendar/runner/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/src/main/java/bean/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/src/main/java/bean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/src/main/java/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/src/main/java/command/CommandProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/src/main/java/command/impl/AddTransactionCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/src/main/java/command/impl/AuthorizationCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/src/main/java/command/impl/DeleteTransactionCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/src/main/java/command/impl/EditTransactionCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/src/main/java/command/impl/FindTransactionCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/src/main/java/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/src/main/java/dao/DAOException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/src/main/java/dao/DAOFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/src/main/java/dao/TransactionDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/src/main/java/dao/TransactionInfoReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/src/main/java/dao/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/src/main/java/dao/UserReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/src/main/java/dao/impl/FileTransactionDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/src/main/java/dao/impl/FileUserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/src/main/java/dao/util/ChangeTransParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/src/main/java/dao/util/FileInfoReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/src/main/java/dao/util/FileInfoWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/src/main/java/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/src/main/java/service/ServiceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/src/main/java/service/ServiceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/src/main/java/service/TransactionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/src/main/java/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/src/main/java/service/impl/TransactionSeviceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/src/main/java/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/src/main/java/service/util/Validation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/target/classes/bean/Transaction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/target/classes/bean/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/target/classes/command/Command.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/target/classes/command/CommandProvider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/target/classes/command/impl/AddTransactionCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/target/classes/command/impl/AuthorizationCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/target/classes/command/impl/DeleteTransactionCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/target/classes/command/impl/EditTransactionCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/target/classes/command/impl/FindTransactionCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/target/classes/controller/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/target/classes/dao/DAOException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/target/classes/dao/DAOFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/target/classes/dao/TransactionDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/target/classes/dao/TransactionInfoReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/target/classes/dao/UserDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/target/classes/dao/UserReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/target/classes/dao/impl/FileTransactionDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/target/classes/dao/impl/FileUserDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/target/classes/dao/util/ChangeTransParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/target/classes/dao/util/FileInfoReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/target/classes/dao/util/FileInfoWriter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/target/classes/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/target/classes/service/ServiceException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/target/classes/service/ServiceFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/target/classes/service/TransactionService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/target/classes/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/target/classes/service/impl/TransactionSeviceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/target/classes/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../financist/target/classes/service/util/Validation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../greetEx/greetEx.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaSecond/SecondProve.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../less2/less2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessons/lessons.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linearalgorithmalkh/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linearalgorithmalkh/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linearalgorithmalkh/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linearalgorithmalkh/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linearalgorithmalkh/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linearalgorithmalkh/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linearalgorithmalkh/src/main/java/by/training/condition/mycalendar/action/ReadDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linearalgorithmalkh/src/main/java/by/training/condition/mycalendar/action/TomorrowExec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linearalgorithmalkh/src/main/java/by/training/condition/mycalendar/controller/DateCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linearalgorithmalkh/src/main/java/by/training/condition/mycalendar/controller/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linearalgorithmalkh/src/main/java/by/training/condition/mycalendar/domain/MyDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linearalgorithmalkh/src/main/java/by/training/condition/mycalendar/exception/InvalidDateException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linearalgorithmalkh/src/main/java/by/training/condition/mycalendar/validator/DateValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linearalgorithmalkh/src/main/java/by/training/condition/season/controller/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linearalgorithmalkh/src/main/java/by/training/condition/season/domain/SeasonEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linearalgorithmalkh/src/main/java/by/training/condition/task15/conrtoller/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linearalgorithmalkh/src/main/java/by/training/condition/task15/model/ChangeNumModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linearalgorithmalkh/src/main/java/by/training/condition/task5/controller/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linearalgorithmalkh/src/main/java/by/training/condition/task5/model/LessNumModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linearalgorithmalkh/src/main/java/by/training/linear/task15/controller/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linearalgorithmalkh/src/main/java/by/training/linear/task26/controller/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linearalgorithmalkh/src/main/java/by/training/linear/task36/controller/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linearalgorithmalkh/src/main/java/by/training/linear/task5/controller/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqltest/.idea/mysqltest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqltest/mysqltest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/src/main/java/by/training/patient/apibusiness/HospitalBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/src/main/java/by/training/patient/apibusiness/MenuBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/src/main/java/by/training/patient/apibusiness/PatientManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/src/main/java/by/training/patient/apidao/PatientDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/src/main/java/by/training/patient/bean/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/src/main/java/by/training/patient/bean/Hospital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/src/main/java/by/training/patient/bean/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/src/main/java/by/training/patient/business/HospitalBuilderImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/src/main/java/by/training/patient/business/HospitalFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/src/main/java/by/training/patient/business/MenuBuilderImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/src/main/java/by/training/patient/business/MenuFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/src/main/java/by/training/patient/business/PatientManagerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/src/main/java/by/training/patient/controller/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/src/main/java/by/training/patient/dao/PatientDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/src/main/java/by/training/patient/exception/MenuException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/src/main/java/by/training/patient/filter/Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/src/main/java/by/training/patient/view/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/target/classes/by/training/patient/apibusiness/CommandService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/target/classes/by/training/patient/apibusiness/DispatcherBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/target/classes/by/training/patient/apibusiness/HospitalBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/target/classes/by/training/patient/apibusiness/MenuBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/target/classes/by/training/patient/apibusiness/PatientManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/target/classes/by/training/patient/apidao/PatientDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/target/classes/by/training/patient/bean/Command$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/target/classes/by/training/patient/bean/Command$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/target/classes/by/training/patient/bean/Command$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/target/classes/by/training/patient/bean/Command$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/target/classes/by/training/patient/bean/Command.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/target/classes/by/training/patient/bean/Hospital.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/target/classes/by/training/patient/bean/Patient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/target/classes/by/training/patient/business/DispatcherBuilderImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/target/classes/by/training/patient/business/DispatcherFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/target/classes/by/training/patient/business/HospitalBuilderImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/target/classes/by/training/patient/business/HospitalFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/target/classes/by/training/patient/business/MenuBuilderImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/target/classes/by/training/patient/business/MenuFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/target/classes/by/training/patient/business/PatientManagerImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/target/classes/by/training/patient/controller/Dispatcher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/target/classes/by/training/patient/controller/Runner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/target/classes/by/training/patient/dao/PatientDAOImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/target/classes/by/training/patient/view/AlternativeMenu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient/target/classes/by/training/patient/view/Menu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring1/.idea/spring1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task08-master/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task08-master/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task08-master/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task08-master/.idea/libraries/Maven__log4j_log4j_1_2_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task08-master/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task08-master/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task08-master/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task08-master/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task08-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task08-master/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task08-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task08-master/target/classes/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task08-master/task08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../задания2-4/.idea/задания2-4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task08/src/main/java/by/training/task08/controller/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task08/task08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/lessonsShidl.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/untitled_war_exploded/WEB-INF/classes/SecondServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/untitled_war_exploded/WEB-INF/classes/SecondServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/untitled_war_exploded/WEB-INF/classes/entities/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/untitled_war_exploded/WEB-INF/classes/entities/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/untitled_war_exploded/WEB-INF/classes/servlets/AdminProductServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/out/artifacts/untitled_war_exploded/WEB-INF/classes/servlets/AdminProductServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/src/main/java/SecondServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/src/main/java/SecondServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/src/main/java/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/src/main/java/entities/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/src/main/java/servlets/AdminProductServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/src/main/java/servlets/AdminProductServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/SecondServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/SecondServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/entities/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/entities/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/servlets/AdminProductServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/servlets/AdminProductServlet.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\study\java\by.training.task10calendar\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WTglmSHpIhQ8JtOdH9u1w7kDAz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/by/training/calendar" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\study\java\by.training.task10calendar\src\main\java\by\training\calendar" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.training.calendar.runner.Main" />
+      <module name="by.training.task10calendar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.training.calendar.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <alternative-path path="10" alternative-path-enabled="true" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a9f14e2-a83e-4862-8e50-fdb074b58094" name="Default Changelist" comment="" />
+      <created>1579179151490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579179151490</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1557" height="124" key="GridCell.Tab.0.bottom" timestamp="1579180048822">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="124" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1579180048822" />
+    <state width="1557" height="124" key="GridCell.Tab.0.center" timestamp="1579180048822">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="124" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1579180048822" />
+    <state width="1557" height="124" key="GridCell.Tab.0.left" timestamp="1579180048822">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="124" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1579180048822" />
+    <state width="1557" height="124" key="GridCell.Tab.0.right" timestamp="1579180048822">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="124" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1579180048822" />
+    <state x="280" y="8" key="SettingsEditor" timestamp="1579179479053">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="280" y="8" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1579179479053" />
+  </component>
+</project>
