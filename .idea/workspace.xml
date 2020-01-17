@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a9f14e2-a83e-4862-8e50-fdb074b58094" name="Default Changelist" comment="">
+    <list default="true" id="6a9f14e2-a83e-4862-8e50-fdb074b58094" name="Default Changelist" comment="new holiday">
       <change afterPath="D:/$RECYCLE.BIN/S-1-5-21-2851624354-303915512-3474638792-1001/$I8O8XKR.iml" afterDir="false" />
       <change afterPath="D:/$RECYCLE.BIN/S-1-5-21-2851624354-303915512-3474638792-1001/$R8O8XKR.iml" afterDir="false" />
       <change afterPath="D:/$RECYCLE.BIN/S-1-5-21-2851624354-303915512-3474638792-1001/$RANJT4Z.dragon/by.training.dragon.iml" afterDir="false" />
       <change afterPath="D:/$RECYCLE.BIN/S-1-5-21-2851624354-303915512-3474638792-1001/$RB5C6G3/linearalgoritm.iml" afterDir="false" />
       <change afterPath="D:/$RECYCLE.BIN/S-1-5-21-2851624354-303915512-3474638792-1001/$RED6OI1.patient/by.taining.patient.iml" afterDir="false" />
-      <change afterPath="D:/Telegram Desktop/log_start0.txt" afterDir="false" />
       <change afterPath="D:/Telegram Desktop/tdata/D877F783D5D3EF8C/CD6BE679489C97990" afterDir="false" />
       <change afterPath="D:/Telegram Desktop/tdata/D877F783D5D3EF8C/F41EBCAA5FEF7C881" afterDir="false" />
       <change afterPath="D:/Telegram Desktop/tdata/D877F783D5D3EF8C/map1" afterDir="false" />
+      <change afterPath="D:/Telegram Desktop/tdata/settings0" afterDir="false" />
       <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/ant/lib/ant-jps-plugin.jar" afterDir="false" />
       <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/ant/lib/resources_en.jar" afterDir="false" />
       <change afterPath="D:/curriculum/idea/IntelliJ IDEA 2018.3.4/plugins/aop-common/lib/aop-common.jar" afterDir="false" />
@@ -413,16 +413,9 @@
       <change afterPath="$PROJECT_DIR$/../by.training.task10/src/main/java/by/training/textfile/view/View.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../by.training.task10/src/main/resources/log4j.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../by.training.task10/target/log.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/by/training/calendar/bean/MyCalendar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/by/training/calendar/logic/api/MyCalendarUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/by/training/calendar/bean/MyCalendar$TransientHolidays.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/by/training/calendar/bean/MyCalendar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/by/training/calendar/logic/api/MyCalendarUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/by/training/calendar/exception/CalendarException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/log.log" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../financist/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../financist/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../financist/.idea/misc.xml" afterDir="false" />
@@ -593,8 +586,11 @@
       <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/entities/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/entities/Product.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/servlets/AdminProductServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../PharmaJava-master/target/classes/servlets/AdminProductServlet.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/by/training/calendar/bean/MyCalendar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/training/calendar/bean/MyCalendar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/by/training/calendar/logic/api/MyCalendarUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/training/calendar/logic/api/MyCalendarUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/by/training/calendar/logic/impl/MyCalendarUtilsImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/training/calendar/logic/impl/MyCalendarUtilsImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/by/training/calendar/runner/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/training/calendar/runner/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/by/training/calendar/logic/api/MyCalendarUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/training/calendar/logic/api/MyCalendarUtils.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/by/training/calendar/logic/impl/MyCalendarUtilsImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/training/calendar/logic/impl/MyCalendarUtilsImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/by/training/calendar/runner/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/training/calendar/runner/Main.class" afterDir="false" />
     </list>
@@ -634,15 +630,19 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/by/training/calendar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="by.training.calendar.exception" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\study\java\by.training.task10calendar\src\main\resources" />
       <recent name="D:\study\java\by.training.task10calendar\src\main\java\by\training\calendar" />
     </key>
   </component>
@@ -706,35 +706,52 @@
       <option name="project" value="LOCAL" />
       <updated>1579180106839</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="little fix">
+      <created>1579200123799</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579200123799</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="calendar" />
-    <option name="LAST_COMMIT_MESSAGE" value="calendar" />
+    <MESSAGE value="little fix" />
+    <MESSAGE value="new holiday" />
+    <option name="LAST_COMMIT_MESSAGE" value="new holiday" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="430" y="26" key="CommitChangelistDialog2" timestamp="1579180103592">
+    <state x="605" y="140" key="#com.intellij.ide.util.MemberChooser" timestamp="1579259681065">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="430" y="26" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1579180103592" />
-    <state width="1557" height="216" key="GridCell.Tab.0.bottom" timestamp="1579199818674">
+    <state x="605" y="140" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1579259681065" />
+    <state x="430" y="26" key="CommitChangelistDialog2" timestamp="1579250748623">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="216" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1579199818674" />
-    <state width="1557" height="216" key="GridCell.Tab.0.center" timestamp="1579199818673">
+    <state x="430" y="26" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1579250748623" />
+    <state x="580" y="189" key="FileChooserDialogImpl" timestamp="1579249460798">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="216" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1579199818673" />
-    <state width="1557" height="216" key="GridCell.Tab.0.left" timestamp="1579199818673">
+    <state x="580" y="189" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1579249460798" />
+    <state width="1557" height="368" key="GridCell.Tab.0.bottom" timestamp="1579253266578">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="216" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1579199818673" />
-    <state width="1557" height="216" key="GridCell.Tab.0.right" timestamp="1579199818674">
+    <state width="1557" height="368" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1579253266578" />
+    <state width="1557" height="368" key="GridCell.Tab.0.center" timestamp="1579253266578">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="216" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1579199818674" />
+    <state width="1557" height="368" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1579253266577" />
+    <state width="1557" height="368" key="GridCell.Tab.0.left" timestamp="1579253266577">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="368" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1579253266577" />
+    <state width="1557" height="368" key="GridCell.Tab.0.right" timestamp="1579253266578">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="368" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1579253266578" />
     <state width="1557" height="276" key="GridCell.Tab.1.bottom" timestamp="1579197298384">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -751,13 +768,13 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1557" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1579197298384" />
-    <state x="280" y="8" key="SettingsEditor" timestamp="1579179479053">
+    <state x="280" y="8" key="SettingsEditor" timestamp="1579251633623">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="280" y="8" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1579179479053" />
-    <state x="392" y="167" key="Vcs.Push.Dialog.v2" timestamp="1579180113904">
+    <state x="280" y="8" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1579251633623" />
+    <state x="392" y="167" key="Vcs.Push.Dialog.v2" timestamp="1579200135750">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="167" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1579180113904" />
+    <state x="392" y="167" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1579200135750" />
   </component>
 </project>

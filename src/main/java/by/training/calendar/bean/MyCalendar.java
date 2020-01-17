@@ -1,13 +1,17 @@
 package by.training.calendar.bean;
 
+import java.io.Serializable;
 import java.util.Arrays;
 
-public class MyCalendar {
+public class MyCalendar implements Serializable {
 
     final private String[] constantHolidays = {"01/01", "07/01",
             "08/03", "01/05", "09/05", "03/07", "07/11", "25/12"};
 
     private int numOfYear;
+
+    public MyCalendar() {
+    }
 
     public MyCalendar(int numOfYear) {
         this.numOfYear = numOfYear;

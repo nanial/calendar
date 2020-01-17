@@ -2,8 +2,8 @@ package by.training.calendar.logic.impl;
 
 
 import by.training.calendar.bean.MyCalendar;
+import by.training.calendar.exception.CalendarException;
 import by.training.calendar.logic.api.MyCalendarUtils;
-
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.time.DayOfWeek;
@@ -36,7 +36,7 @@ public class MyCalendarUtilsImpl implements MyCalendarUtils {
         this.transientHolidays = transientHolidays;
     }
 
-    public ArrayList<Date> constHolAsDate(){
+    public ArrayList<Date> constHolAsDate() throws CalendarException {
 
         ArrayList<Date> constHol = new ArrayList<>();
 
@@ -45,24 +45,26 @@ public class MyCalendarUtilsImpl implements MyCalendarUtils {
                 constHol.add(format.parse(s));
             }
             catch (ParseException pe){
-                System.out.println(pe.getMessage());
+                throw new CalendarException("Attempt parse incorrect date");
             }
 
         }
         return constHol;
     }
-    public SortedSet<Date> allHoliday(){
+    public SortedSet<Date> allHoliday() throws CalendarException {
 
         SortedSet<Date> holidays = new TreeSet<>();
 
         holidays.addAll(this.constHolAsDate());
         holidays.addAll(this.getWeekEnds());
         holidays.add(this.dayOfMemory());
-
+        if (this.getMyCalendar().getNumOfYear() > 2019) {
+            holidays.add(this.newHoliday(1, 2));
+        }
         return holidays;
     }
 
-    public ArrayList<String> allHolToString(){
+    public ArrayList<String> allHolToString() throws CalendarException {
 
         ArrayList<String> allHolToString = new ArrayList<>();
 
@@ -76,6 +78,9 @@ public class MyCalendarUtilsImpl implements MyCalendarUtils {
 
         if(this.getMyCalendar().getNumOfYear() % 4 == 0){
             return 366;
+        }
+        else if (this.getMyCalendar().getNumOfYear() % 400 == 0){
+            return 365;
         }
         else {
             return 365;
@@ -107,7 +112,6 @@ public class MyCalendarUtilsImpl implements MyCalendarUtils {
 
     public Date ortodoxPasqua() {
 
-        this.getMyCalendar().getNumOfYear();
         Date easterDate = new Date();
         int a = this.getMyCalendar().getNumOfYear() % 4;
         int b = this.getMyCalendar().getNumOfYear() % 7;
@@ -143,15 +147,16 @@ public class MyCalendarUtilsImpl implements MyCalendarUtils {
         mem.setYear(70);
         return mem;
     }
+
+    @Override
+    public Date newHoliday(int month, int day) {
+
+        Date newHoliday = new Date();
+
+            newHoliday.setMonth(month - 1);
+            newHoliday.setDate(day);
+            newHoliday.setYear(70);
+
+        return newHoliday;
+    }
 }
-/*int a = (19 * (this.getMyCalendar().getNumOfYear() % 19) + 15) % 30;
-        int b = ((2 * (this.getMyCalendar().getNumOfYear() % 4) + 4 *
-                (this.getMyCalendar().getNumOfYear() % 7) + 6 * a + 6) % 7);
-
-        if(a + b > 10)
-            easterDate = new Date(this.getMyCalendar().getNumOfYear(), 3, a + b - 9);
-        else
-            easterDate = new Date(this.getMyCalendar().getNumOfYear(), 2, 22 + a + b);
-
-        easterDate.setDate(easterDate.getDate() + 13);
-        return easterDate;*/
